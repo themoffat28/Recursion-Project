@@ -21,7 +21,7 @@ public class Frame extends JFrame
 	{
 		this.setContentPane(basePanel);
 		this.setTitle("Math Tool");
-		this.setSize(new Dimension (900, 600));
+		this.setSize(new Dimension (450, 295));
 		this.setVisible(true);
 	}
 }

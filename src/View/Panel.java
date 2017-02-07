@@ -70,7 +70,7 @@ public class Panel extends JPanel
 		{
 			public void actionPerformed(ActionEvent click)
 			{
-				displayField.setText(baseController.transferFactorial(inputField.getText()));
+				displayField.setText(baseController.transferFibonacci(inputField.getText()));
 			}
 		});
 		
